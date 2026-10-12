@@ -1,0 +1,24 @@
+# Student Grade Calculator
+
+## Project Overview
+
+The Student Grade Calculator is an Excel-based project used to calculate student marks, percentages, grades, and results.
+
+## Features
+
+* Automatic percentage calculation
+* Grade calculation
+* Pass/Fail status
+* Conditional formatting
+* Student performance chart
+* Student summary dashboard
+
+## Tools Used
+
+* Microsoft Excel
+* Excel formulas
+* Charts and conditional formatting
+
+## Objective
+
+To simplify student grade calculation and analyze student academic performance.
